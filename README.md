@@ -4,4 +4,5 @@ Such algorithms include:
 - Depth First Search
 - Breadth First Search
 - Travelling Salesperson
+- Lossless Compression
 - and more
