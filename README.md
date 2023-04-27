@@ -5,4 +5,9 @@ Such algorithms include:
 - Breadth First Search
 - Travelling Salesperson
 - Lossless Compression
+- Various Hashing Methods (Chaining, Probing, etc.)
+- Graph Theory
+- Heapifying
 - and more
+
+COMING SOON: Dijkstra's Algorithm
